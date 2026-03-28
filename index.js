@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 
 // ================= CONFIG =================
-const TOKEN = "7678859115";
+const TOKEN = "7678859115:AAEErvHPuDDtlIda6f9f1u0KqJq6F_uOtSs";
 const TELEGRAM_API = `https://api.telegram.org/bot${TOKEN}`;
 
 // GANTI DENGAN DOMAIN KAMU
